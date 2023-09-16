@@ -19,6 +19,7 @@
   right: 3px;
   font-size: 1.5rem;
   color: #ccc;
+  cursor: pointer;
 }
 .messenger .receiver-status::before {
   content: "";
