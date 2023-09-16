@@ -13,7 +13,7 @@
   width: 24px;
   background-image: url("/assets/images/icon/all-2.png");
   background-position: 0px -159px;
-  background-size: 49px 530px;
+  background-size: 49px 560px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -36,7 +36,7 @@
   width: 24px;
   background-image: url("/assets/images/icon/all-2.png");
   background-position: 0px -182px;
-  background-size: 49px 530px;
+  background-size: 49px 560px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -46,7 +46,7 @@
   width: 24px;
   background-image: url("/assets/images/icon/all-2.png");
   background-position: 0px -307px;
-  background-size: 49px 530px;
+  background-size: 49px 560px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -54,9 +54,9 @@
 .friend-icon {
   height: 24px;
   width: 24px;
-  background-image: url("/assets/images/icon/all-2.png");
+  background-image: url("/assets/images/icon/amis.png");
   background-position: 0px -257px;
-  background-size: 49px 530px;
+  background-size: 49px 560px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -66,7 +66,7 @@
   width: 24px;
   background-image: url("/assets/images/icon/all-2.png");
   background-position: 0px -232px;
-  background-size: 49px 530px;
+  background-size: 49px 560px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -116,7 +116,7 @@
   width: 24px;
   background-image: url("/assets/images/icon/all-2.png");
   background-position: 0px -307px;
-  background-size: 49px 530px;
+  background-size: 49px 560px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -126,7 +126,7 @@
   width: 24px;
   background-image: url("../images/icon/all-2.png");
   background-position: 0px -232px;
-  background-size: 49px 530px;
+  background-size: 49px 560px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -207,6 +207,24 @@
   background-size: 25px 334px;
   width: 20px;
   height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.icon-souvenir {
+  background-image: url("/assets/images/icon/souvenirs.png");
+  background-position: 0px -67px;
+  background-size: 25px 334px;
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.photo-video-icon {
+  background-image: url("/assets/images/icon/video.png");
+  background-position: 0px -67px;
+  background-size: 25px 334px;
+  width: 30px;
+  height: 30px;
   background-repeat: no-repeat;
   display: inline-block;
 }

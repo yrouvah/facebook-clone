@@ -11,3 +11,17 @@ button {
   font-weight: bold;
   cursor: pointer;
 }
+.profile-picture {
+  padding: 10px;
+}
+.profile-picture img {
+  width: 50px;
+  border-radius: 50px;
+}
+.username {
+  font-weight: bold;
+}
+.divider{
+  border: 0.1px solid #ccc;
+  margin: 5px 0px;
+}
